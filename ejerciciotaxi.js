@@ -6,7 +6,7 @@ function validarTaxi(taxi) {
 
 // Ejemplo de uso
 const taxi = {
-  añoFabricación: 2023,
+  añoFabricación: 2017,
 };
 
 // Llamada a la función
